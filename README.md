@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **MongoDB & redis**
 
--⚡ Fun fact **I drink every Energy**
+- ⚡ Fun fact **I drink every Energy**
 
 
 » How to reach me 
