@@ -5,13 +5,13 @@
 
 - 🌱 I’m currently learning **MongoDB & redis**
 
-- 👯 I’m looking to collaborate on **asasas**
-
-
-
+- 👯 ⚡ Fun fact **I drink every Energy**
+<br>
+<br>
+<br>
 » How to reach me 
-- 👾 Discord: 𝖊𝖓𝖙𝖎𝖝𝖔𝖌#1420
-- 📫 E-Mail: **development@EntixOG.de**
+ - 👾 Discord: 𝖊𝖓𝖙𝖎𝖝𝖔𝖌#1420
+ - 📫 E-Mail: **development@EntixOG.de**
 
 <p align="left">
 </p>
