@@ -10,8 +10,8 @@
 <br>
 <br>
 » How to reach me 
- - 👾 Discord: 𝖊𝖓𝖙𝖎𝖝𝖔𝖌#1420
- - 📫 E-Mail: **development@EntixOG.de**
+- 👾 Discord: 𝖊𝖓𝖙𝖎𝖝𝖔𝖌#1420
+- 📫 E-Mail: **development@EntixOG.de**
 
 <p align="left">
 </p>
