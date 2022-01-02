@@ -1,6 +1,6 @@
-👤・Hello my name is Fabian and I'm from germany.
-🖥️・Programming languages: Java, Python
-📄・Database languages: MariaDB, PostgreSQL, MongoDB (Basic), Redis
+<h1 align="center"> Hello my name is Fabian and I'm from germany. </h1>
+- 🖥️・Programming languages: Java, Python
+- 📄・Database languages: MariaDB, PostgreSQL, MongoDB (Basic), Redis
  
 ・How to reach me:
   » 📫 E-Mail: development@EntixOG.de
