@@ -8,7 +8,7 @@
 - ⚡ Fun fact **I drink every Energy**
 
 
-» How to reach me 
+How to reach me 
 - 👾 Discord: 𝖊𝖓𝖙𝖎𝖝𝖔𝖌#1420
 - 📫 E-Mail: **development@EntixOG.de**
 
