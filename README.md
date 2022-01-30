@@ -11,7 +11,7 @@
 
 How to reach me 
 - 👾 Discord: 𝖊𝖓𝖙𝖎𝖝𝖔𝖌#1420
-- 📫 E-Mail: **development@EntixOG.de**
+- 📫 E-Mail: **administrator@entixog.de**
 
 <p align="left">
 </p>
