@@ -10,7 +10,7 @@
 
 
 How to reach me 
-- 👾 Discord: 𝖊𝖓𝖙𝖎𝖝𝖔𝖌#1420
+- 👾 Discord: 𝖊𝖓𝖙𝖎𝖝𝖔𝖌#0001
 - 📫 E-Mail: **administrator@entixog.de**
 
 <p align="left">
