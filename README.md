@@ -3,6 +3,8 @@
 
 - 🔭 I’m currently working on [EntixSolution (private projekt)](https://github.com/EntixCompany)
 
+- ⚡ Developer at TeamHoly (Minecraft: TeamHoly.de)
+
 - 🌱 I’m currently learning **MongoDB & redis**
 
 - ⚡ Fun fact **I drink every Energy**
