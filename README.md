@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Fabian and 23 years old</h1>
 <h3 align="center">A passionate frontend & backend developer from Germany</h3>
 
-- 🔭 I’m currently working on [EntixSolution (private projekt)](https://github.com/EntixCompany)
-
-- ⚡ Developer at TeamHoly (Minecraft: TeamHoly.de)
+- 🔭 I’m currently working on Binflux (https://github.com/BinfluxDev)
 
 - 🌱 I’m currently learning **MongoDB & redis**
 
