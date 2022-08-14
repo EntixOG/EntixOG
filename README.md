@@ -13,6 +13,8 @@ How to reach me
 - 👾 Discord: 𝖊𝖓𝖙𝖎𝖝𝖔𝖌#0001
 - 📫 E-Mail: **administrator@entixog.de**
 
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EntixOG&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
+
 <p align="left">
 </p>
 <br>
