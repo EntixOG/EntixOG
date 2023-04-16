@@ -1,23 +1,50 @@
-<h1 align="center">Hi 👋, I'm Fabian and 23 years old</h1>
-<h3 align="center">A passionate frontend & backend developer from Germany</h3>
+<h1 align="center">Hi 👋, I'm Fabian and 24 years old</h1>
+<h3 align="center">A passionate backend developer from Germany</h3>
 
-- 🔭 I’m currently working on Binflux (https://github.com/BinfluxDev)
-
-- 🌱 I’m currently learning **MongoDB & redis**
-
-- ⚡ Fun fact **I drink every Energy**
-
-
+### 📚 Recent Projects:
+- ⚔ AspireMC - A Minecraft PvP Network (AspireMC.de)
+- ⚔ MineChaos - A Minecraft PvP Server (https://MineChaos.eu)
 
 How to reach me 
-- 👾 Discord: 𝖊𝖓𝖙𝖎𝖝𝖔𝖌#0001
+- 👾 Discord: entixog#0001
 - 📫 E-Mail: **administrator@entixog.de**
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=EntixOG&theme=dracula)](https://github.com/anuraghazra/github-readme-stats) 
 
-<p align="left">
-</p>
-<br>
-<br>
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> </a> <a href="https://mariadb.org/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/mariadb/mariadb-icon.svg" alt="mariadb" width="40" height="40"/> </a> <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.nginx.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg" alt="nginx" width="40" height="40"/> </a> <a href="https://www.oracle.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/oracle/oracle-original.svg" alt="oracle" width="40" height="40"/> </a> <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> <a href="https://redis.io" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> </a> </p>
+
+<details open>
+  <summary><b>Backend</b></summary>
+  <br/>
+  <p align="left"> 
+<img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=java&logoColor=white&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
+    
+<img src="https://img.shields.io/badge/Spring Framework%20-%23F7DF1E.svg?logo=spring&logoColor=white&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Spring Boot%20-%23F7DF1E.svg?logo=spring-boot&logoColor=white&style=for-the-badge&color=green" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Spring Data%20-%23F7DF1E.svg?logo=spring&logoColor=white&style=for-the-badge&color=yellowgreen" />&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Apache Maven%20-%23F7DF1E.svg?logo=apachemaven&logoColor=white&style=for-the-badge&color=darkgoldenrod" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Gradle%20-%23F7DF1E.svg?logo=gradle&logoColor=white&style=for-the-badge&color=darkred" />&nbsp;&nbsp;
+    </p>
+</details>
+
+<details>
+  <summary><b>Databases</b></summary>
+  <br/>
+  <p align="left"> 
+<img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?logo=postgresql&logoColor=white&style=for-the-badge&color=darkblue" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?logo=mysql&logoColor=white&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?logo=mongodb&logoColor=white&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;</p>
+<img src="https://img.shields.io/badge/Redisson%20-%23F7DF1E.svg?logo=redisson&logoColor=Orange&style=for-the-badge&color=cc0000" />&nbsp;&nbsp;</p>
+</details>
+
+<details>
+  <summary><b>Others</b></summary>
+  <br/>
+  <p align="left"> 
+<img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?logo=git&logoColor=white&style=for-the-badge&color=000" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Git Hub%20-%23F7DF1E.svg?logo=github&logoColor=white&style=for-the-badge&color=lightblue" />&nbsp;&nbsp;
+
+<img src="https://img.shields.io/badge/Clean Code%20-%23F7DF1E.svg?&style=for-the-badge&color=success" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/OOP%20-%23F7DF1E.svg?&style=for-the-badge&color=grey" />&nbsp;&nbsp;
+ </p>
+</details>
