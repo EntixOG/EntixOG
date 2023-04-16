@@ -33,7 +33,7 @@ How to reach me
   <p align="left"> 
 <img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?logo=postgresql&logoColor=white&style=for-the-badge&color=darkblue" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?logo=mysql&logoColor=white&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?logo=mongodb&logoColor=white&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;</p>
+<img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?logo=mongodb&logoColor=white&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/Redisson%20-%23F7DF1E.svg?logo=redisson&logoColor=Orange&style=for-the-badge&color=cc0000" />&nbsp;&nbsp;</p>
 </details>
 
