@@ -6,28 +6,19 @@
 - ⚔ MineChaos - A Minecraft PvP Server (https://MineChaos.eu)
 
 How to reach me 
-- 👾 Discord: entixog#0001
+- 👾 Discord: entixog
 - 📫 E-Mail: **administrator@entixog.de**
 
 
 
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white) ![Cloudflare](https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=Cloudflare&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![Spring](https://img.shields.io/badge/spring-%236DB33F.svg?style=for-the-badge&logo=spring&logoColor=white) ![MariaDB](https://img.shields.io/badge/MariaDB-003545?style=for-the-badge&logo=mariadb&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-%2300f.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![LINUX](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=entixog&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=entixog&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=entixog&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
-<img src="https://img.shields.io/badge/Java%20-%23F7DF1E.svg?logo=java&logoColor=white&style=for-the-badge&color=E34F26" />&nbsp;&nbsp;
+---
+[![](https://visitcount.itsvg.in/api?id=entixog&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<img src="https://img.shields.io/badge/Spring Framework%20-%23F7DF1E.svg?logo=spring&logoColor=white&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Spring Boot%20-%23F7DF1E.svg?logo=spring-boot&logoColor=white&style=for-the-badge&color=green" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Spring Data%20-%23F7DF1E.svg?logo=spring&logoColor=white&style=for-the-badge&color=yellowgreen" />&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?logo=postgresql&logoColor=white&style=for-the-badge&color=darkblue" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?logo=mysql&logoColor=white&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?logo=mongodb&logoColor=white&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Redisson%20-%23F7DF1E.svg?logo=redisson&logoColor=Orange&style=for-the-badge&color=cc0000" />&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Apache Maven%20-%23F7DF1E.svg?logo=apachemaven&logoColor=white&style=for-the-badge&color=darkgoldenrod" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Gradle%20-%23F7DF1E.svg?logo=gradle&logoColor=white&style=for-the-badge&color=darkred" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git%20-%23F7DF1E.svg?logo=git&logoColor=white&style=for-the-badge&color=000" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/Git Hub%20-%23F7DF1E.svg?logo=github&logoColor=white&style=for-the-badge&color=lightblue" />&nbsp;&nbsp;
-
-<img src="https://img.shields.io/badge/Clean Code%20-%23F7DF1E.svg?&style=for-the-badge&color=success" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/OOP%20-%23F7DF1E.svg?&style=for-the-badge&color=grey" />&nbsp;&nbsp;
-
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
