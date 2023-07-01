@@ -2,8 +2,7 @@
 <h3 align="center">A passionate backend developer from Germany</h3>
 
 ### 📚 Recent Projects:
-- ⚔ AspireMC - A Minecraft PvP Network (AspireMC.de)
-- ⚔ MineChaos - A Minecraft PvP Server (https://MineChaos.eu)
+- ⚔ AzurMC - A Minecraft SkyBlock & Economy Server (AzurMC.eu)
 
 How to reach me 
 - 👾 Discord: entixog
