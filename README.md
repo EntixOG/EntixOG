@@ -1,9 +1,6 @@
 <h1 align="center">Hi 👋, I'm Fabian and 24 years old</h1>
 <h3 align="center">A passionate backend developer from Germany</h3>
 
-### 📚 Recent Projects:
-- ⚔ AzurMC - A Minecraft SkyBlock & Economy Server (AzurMC.eu)
-
 How to reach me 
 - 👾 Discord: entixog
 - 📫 E-Mail: **administrator@entixog.de**
