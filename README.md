@@ -1,9 +1,7 @@
-<h1 align="center">Hi 👋, I'm Fabian and 24 years old</h1>
+<h1 align="center">Hey, what's up, I'm Fabian!</h1>
 
 How to reach me 
 - 👾 Discord: entixog
-- 📫 E-Mail: **administrator@entixog.de**
-
 
 
 # 💻 Tech Stack:
@@ -24,7 +22,7 @@ How to reach me
 
 
 <details>
-  <summary><b>Frontend (Currently learning) </b></summary>
+  <summary><b>Frontend</b></summary>
   <br/>
   <p align="left"> 
 <img src="https://img.shields.io/badge/Dart%20-%23F7DF1E.svg?logo=dart&logoColor=white&style=for-the-badge&color=3178C6" />&nbsp;&nbsp;
@@ -39,10 +37,11 @@ How to reach me
 
 <img src="https://img.shields.io/badge/MongoDB%20-%23F7DF1E.svg?logo=mongodb&logoColor=white&style=for-the-badge&color=5C9A37" />&nbsp;&nbsp;
 <img src="https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white" />&nbsp;&nbsp;
- 
 <img src="https://img.shields.io/badge/PostgreSQL%20-%23F7DF1E.svg?logo=postgresql&logoColor=white&style=for-the-badge&color=darkblue" />&nbsp;&nbsp;
+
 <img src="https://img.shields.io/badge/MySQL%20-%23F7DF1E.svg?logo=mysql&logoColor=white&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
-<img src="https://img.shields.io/badge/MariaDB%20-%23F7DF1E.svg?logo=mariadb&logoColor=white&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;</p>
+<img src="https://img.shields.io/badge/MariaDB%20-%23F7DF1E.svg?logo=mariadb&logoColor=white&style=for-the-badge&color=1E4C68" />&nbsp;&nbsp;
+<img src="https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=Hibernate&logoColor=white" />&nbsp;&nbsp;</p>
 </details>
 
 <details>
